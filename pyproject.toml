@@ -17,6 +17,7 @@ dependencies = [
     "shapely>=2.0",
     "pytz",
     "tqdm>=4.66",
+    "photonforge>=1.1.7",
 ]
 
 [tool.setuptools]
